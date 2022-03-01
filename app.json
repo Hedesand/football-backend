@@ -1,0 +1,8 @@
+{
+    "name": "football-backend",
+    "description": "Javascript Frontend",
+    "repository": "https://github.com/Hedesand/football-backend.git",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+}
