@@ -80,8 +80,8 @@ app.get("/football", (req ,res)=>{
    body=
    [
       {
-            "name": "AIK",
-            "points": 2,
+            "name": "DIF",
+            "points": 9,
             "logo":"https://www.allsvenskan.se/lagen/aik/_/image/0c02711d-d44e-4124-a555-0df3d8264551:0fb201f22e823629dada3ee33327a5b70963120b/width-110/AIK.svg"
       }
    ]
